@@ -1,0 +1,270 @@
+Charging event,User ID,CP ID,Connector,Start Date,Start Time,End Date,End Time,Total kWh,Site,Model
+1084155,User 44,70201,1,07/02/2015,17:13,07/02/2015,21:21,0,Woodhouse Lane Car Park,APT 7kW Dual Outlet
+1087776,User 64,70201,1,07/05/2015,15:56,07/05/2015,17:32,0,Woodhouse Lane Car Park,APT 7kW Dual Outlet
+1088487,User 628,70206,2,07/06/2015,09:03,07/06/2015,17:07,3.48,Elland Road Park and Ride,APT 7kW Dual Outlet
+1089925,User 628,70206,2,07/07/2015,08:56,07/07/2015,16:57,6.46,Elland Road Park and Ride,APT 7kW Dual Outlet
+1094520,User 58,70205,1,07/10/2015,09:21,07/10/2015,14:43,9.67,Elland Road Park and Ride,APT 7kW Dual Outlet
+1095239,User 87,70203,1,07/10/2015,17:37,07/10/2015,23:22,0,Woodhouse Lane Car Park,APT 7kW Dual Outlet
+1096288,User 64,70206,2,07/11/2015,16:35,07/11/2015,16:36,0,Elland Road Park and Ride,APT 7kW Dual Outlet
+1096289,User 64,70206,2,07/11/2015,16:36,07/11/2015,19:08,14.78,Elland Road Park and Ride,APT 7kW Dual Outlet
+1097286,User 63,70204,2,07/12/2015,14:29,07/12/2015,17:05,0,Woodhouse Lane Car Park,APT 7kW Dual Outlet
+1097291,User 84,70201,1,07/12/2015,14:40,07/12/2015,16:11,0,Woodhouse Lane Car Park,APT 7kW Dual Outlet
+1099789,User 58,70205,1,7/14/2015,11:39,7/14/2015,16:41,9.98,Elland Road Park and Ride,APT 7kW Dual Outlet
+1101223,User 628,70206,2,7/15/2015,08:55,7/15/2015,16:40,9,Elland Road Park and Ride,APT 7kW Dual Outlet
+1102911,User 628,70206,2,7/16/2015,08:53,7/16/2015,17:00,6.72,Elland Road Park and Ride,APT 7kW Dual Outlet
+1106181,User 67,70207,1,7/18/2015,12:52,7/18/2015,18:30,9.85,Elland Road Park and Ride,APT 7kW Dual Outlet
+1108358,User 628,70206,1,7/20/2015,08:47,7/20/2015,16:30,2.39,Elland Road Park and Ride,APT 7kW Dual Outlet
+1109826,User 628,70206,1,7/21/2015,08:46,7/21/2015,16:18,5.74,Elland Road Park and Ride,APT 7kW Dual Outlet
+1110454,User 57,70208,1,7/21/2015,14:02,7/21/2015,14:17,1.72,Elland Road Park and Ride,APT 7kW Dual Outlet
+1111384,User 636,70205,1,7/22/2015,07:44,7/22/2015,17:02,17.92,Elland Road Park and Ride,APT 7kW Dual Outlet
+1111426,User 628,70206,1,7/22/2015,08:35,7/22/2015,16:42,6.17,Elland Road Park and Ride,APT 7kW Dual Outlet
+1112964,User 636,70205,1,7/23/2015,08:10,7/23/2015,17:34,12.94,Elland Road Park and Ride,APT 7kW Dual Outlet
+1114616,User 628,70206,1,7/24/2015,08:39,7/24/2015,16:52,10.06,Elland Road Park and Ride,APT 7kW Dual Outlet
+1115736,User 51,70203,1,7/24/2015,19:09,7/24/2015,22:08,0,Woodhouse Lane Car Park,APT 7kW Dual Outlet
+1117718,User 636,70205,1,7/27/2015,08:35,7/27/2015,17:25,15.76,Elland Road Park and Ride,APT 7kW Dual Outlet
+1118746,User 636,70205,1,7/28/2015,08:28,7/28/2015,16:53,13.69,Elland Road Park and Ride,APT 7kW Dual Outlet
+1118761,User 628,70206,1,7/28/2015,08:41,7/28/2015,17:46,11.09,Elland Road Park and Ride,APT 7kW Dual Outlet
+1120286,User 636,70205,1,7/29/2015,08:25,7/29/2015,17:12,13.73,Elland Road Park and Ride,APT 7kW Dual Outlet
+1128836,User 636,70205,1,08/04/2015,08:18,08/04/2015,17:20,11.13,Elland Road Park and Ride,APT 7kW Dual Outlet
+1130683,User 636,70205,1,08/05/2015,08:00,08/05/2015,17:45,11.22,Elland Road Park and Ride,APT 7kW Dual Outlet
+1132210,User 636,70205,1,08/06/2015,08:09,08/06/2015,17:45,10.91,Elland Road Park and Ride,APT 7kW Dual Outlet
+1133252,User 83,70207,2,08/06/2015,19:04,08/06/2015,20:56,12.31,Elland Road Park and Ride,APT 7kW Dual Outlet
+1137238,User 64,70200,1,08/09/2015,15:12,08/09/2015,18:24,10.8,Woodhouse Lane Car Park,APT 7kW Dual Outlet
+1138724,User 51,70208,1,08/10/2015,15:17,08/10/2015,16:35,4.21,Elland Road Park and Ride,APT 7kW Dual Outlet
+1139601,User 636,70205,1,08/11/2015,08:14,08/11/2015,17:02,13.48,Elland Road Park and Ride,APT 7kW Dual Outlet
+1141151,User 636,70205,1,08/12/2015,07:48,8/13/2015,08:11,11.73,Elland Road Park and Ride,APT 7kW Dual Outlet
+1142846,User 636,70206,1,8/13/2015,08:13,8/13/2015,16:12,11.8,Elland Road Park and Ride,APT 7kW Dual Outlet
+1151397,User 636,70206,1,8/17/2015,07:07,8/17/2015,16:00,15.8,Elland Road Park and Ride,APT 7kW Dual Outlet
+1154504,User 84,70208,1,8/18/2015,07:11,8/18/2015,16:00,12.03,Elland Road Park and Ride,APT 7kW Dual Outlet
+1154601,User 636,70206,1,8/18/2015,07:49,8/18/2015,16:12,11.53,Elland Road Park and Ride,APT 7kW Dual Outlet
+1155288,User 55,70207,2,8/18/2015,10:09,8/18/2015,12:29,4.99,Elland Road Park and Ride,APT 7kW Dual Outlet
+1161432,User 631,70206,1,8/19/2015,11:12,8/19/2015,15:01,14.53,Elland Road Park and Ride,APT 7kW Dual Outlet
+1166740,User 84,70208,1,8/20/2015,07:15,8/20/2015,16:10,13.38,Elland Road Park and Ride,APT 7kW Dual Outlet
+1166860,User 636,70206,1,8/20/2015,07:44,8/20/2015,16:41,10.73,Elland Road Park and Ride,APT 7kW Dual Outlet
+1173241,User 636,70206,1,8/21/2015,08:25,8/21/2015,14:44,17.12,Elland Road Park and Ride,APT 7kW Dual Outlet
+1179512,User 63,70204,1,8/22/2015,09:33,8/22/2015,11:29,0,Woodhouse Lane Car Park,APT 7kW Dual Outlet
+1179708,User 84,70203,1,8/22/2015,10:30,8/22/2015,12:48,0,Woodhouse Lane Car Park,APT 7kW Dual Outlet
+1186511,User 64,70200,1,8/23/2015,14:49,8/23/2015,16:59,6.28,Woodhouse Lane Car Park,APT 7kW Dual Outlet
+1190283,User 84,70208,1,8/24/2015,07:14,8/24/2015,16:13,15.25,Elland Road Park and Ride,APT 7kW Dual Outlet
+1190419,User 636,70206,1,8/24/2015,07:50,8/24/2015,13:41,10.48,Elland Road Park and Ride,APT 7kW Dual Outlet
+1196706,User 628,70206,1,8/25/2015,08:44,8/25/2015,17:10,9.58,Elland Road Park and Ride,APT 7kW Dual Outlet
+1202411,User 84,70208,1,8/26/2015,07:14,8/26/2015,16:02,14.31,Elland Road Park and Ride,APT 7kW Dual Outlet
+1208861,User 628,70206,1,8/27/2015,08:40,8/27/2015,17:27,9.9,Elland Road Park and Ride,APT 7kW Dual Outlet
+1209019,User 636,70206,2,8/27/2015,08:53,8/27/2015,17:03,14.91,Elland Road Park and Ride,APT 7kW Dual Outlet
+1216142,User 628,70206,1,8/28/2015,08:34,8/28/2015,17:45,6.94,Elland Road Park and Ride,APT 7kW Dual Outlet
+1216375,User 636,70206,2,8/28/2015,09:01,8/28/2015,14:50,14.89,Elland Road Park and Ride,APT 7kW Dual Outlet
+1220544,User 625,70200,1,8/28/2015,21:35,8/28/2015,23:50,8.46,Woodhouse Lane Car Park,APT 7kW Dual Outlet
+1244973,User 84,70208,1,09/01/2015,07:13,09/01/2015,15:59,12.98,Elland Road Park and Ride,APT 7kW Dual Outlet
+1247809,User 84,70208,1,09/02/2015,07:14,09/02/2015,16:01,4.9,Elland Road Park and Ride,APT 7kW Dual Outlet
+1250079,User 84,70208,1,09/03/2015,07:14,09/03/2015,07:15,0,Elland Road Park and Ride,APT 7kW Dual Outlet
+1250080,User 84,70208,1,09/03/2015,07:15,09/03/2015,15:49,4.43,Elland Road Park and Ride,APT 7kW Dual Outlet
+1255781,User 64,70200,2,09/06/2015,13:03,09/06/2015,16:03,11.4,Woodhouse Lane Car Park,APT 7kW Dual Outlet
+1258604,User 84,70208,2,09/08/2015,07:15,09/08/2015,15:59,13.24,Elland Road Park and Ride,APT 7kW Dual Outlet
+1262609,User 84,70208,1,09/10/2015,07:14,09/10/2015,16:02,14.43,Elland Road Park and Ride,APT 7kW Dual Outlet
+1266711,User 84,70202,2,09/12/2015,10:52,09/12/2015,12:37,6.56,Woodhouse Lane Car Park,APT 7kW Dual Outlet
+1269370,User 84,70207,1,9/14/2015,07:14,9/14/2015,15:59,12.41,Elland Road Park and Ride,APT 7kW Dual Outlet
+1269466,User 628,70206,1,9/14/2015,08:41,9/14/2015,16:40,3.06,Elland Road Park and Ride,APT 7kW Dual Outlet
+1269469,User 636,70206,2,9/14/2015,08:44,9/14/2015,18:00,13.87,Elland Road Park and Ride,APT 7kW Dual Outlet
+1270366,User 44,70201,1,9/14/2015,16:44,9/14/2015,20:21,0,Woodhouse Lane Car Park,APT 7kW Dual Outlet
+1271498,User 636,70206,1,9/15/2015,09:23,9/15/2015,17:22,17.28,Elland Road Park and Ride,APT 7kW Dual Outlet
+1271878,User 96,70203,2,9/15/2015,12:54,9/15/2015,18:03,0,Woodhouse Lane Car Park,APT 7kW Dual Outlet
+1272480,User 92,70202,2,9/15/2015,17:16,9/15/2015,18:08,3.3,Woodhouse Lane Car Park,APT 7kW Dual Outlet
+1273209,User 84,70207,1,9/16/2015,07:14,9/16/2015,16:02,14.35,Elland Road Park and Ride,APT 7kW Dual Outlet
+1273308,User 636,70206,1,9/16/2015,08:28,9/16/2015,17:21,17.73,Elland Road Park and Ride,APT 7kW Dual Outlet
+1273437,User 628,70206,2,9/16/2015,08:57,9/16/2015,16:00,3.84,Elland Road Park and Ride,APT 7kW Dual Outlet
+1275194,User 636,70206,1,9/17/2015,07:22,9/17/2015,16:31,12.34,Elland Road Park and Ride,APT 7kW Dual Outlet
+1275315,User 628,70206,2,9/17/2015,08:45,9/17/2015,17:10,7.7,Elland Road Park and Ride,APT 7kW Dual Outlet
+1277195,User 636,70206,1,9/18/2015,07:09,9/18/2015,12:09,12.13,Elland Road Park and Ride,APT 7kW Dual Outlet
+1277201,User 84,70207,1,9/18/2015,07:15,9/18/2015,16:03,11.21,Elland Road Park and Ride,APT 7kW Dual Outlet
+1277365,User 628,70206,2,9/18/2015,08:48,9/18/2015,17:22,6.59,Elland Road Park and Ride,APT 7kW Dual Outlet
+1281971,User 84,70207,2,9/21/2015,07:15,9/21/2015,15:50,8.13,Elland Road Park and Ride,APT 7kW Dual Outlet
+1281979,User 636,70206,1,9/21/2015,07:29,9/21/2015,18:31,11.37,Elland Road Park and Ride,APT 7kW Dual Outlet
+1282180,User 628,70206,2,9/21/2015,08:55,9/21/2015,16:50,2.79,Elland Road Park and Ride,APT 7kW Dual Outlet
+1283872,User 636,70206,1,9/22/2015,07:06,9/22/2015,18:10,11.79,Elland Road Park and Ride,APT 7kW Dual Outlet
+1284325,User 59,70208,2,9/22/2015,11:57,9/22/2015,11:57,0,Elland Road Park and Ride,APT 7kW Dual Outlet
+1284358,User 59,70208,2,9/22/2015,12:19,9/22/2015,12:19,0,Elland Road Park and Ride,APT 7kW Dual Outlet
+1284360,User 59,70208,1,9/22/2015,12:19,9/22/2015,12:21,0,Elland Road Park and Ride,APT 7kW Dual Outlet
+1284366,User 59,70208,2,9/22/2015,12:22,9/22/2015,16:01,0,Elland Road Park and Ride,APT 7kW Dual Outlet
+1285830,User 636,70206,1,9/23/2015,07:10,9/23/2015,16:50,11.76,Elland Road Park and Ride,APT 7kW Dual Outlet
+1285835,User 84,70207,1,9/23/2015,07:15,9/23/2015,15:49,13.07,Elland Road Park and Ride,APT 7kW Dual Outlet
+1286072,User 628,70206,2,9/23/2015,08:51,9/23/2015,16:49,11.84,Elland Road Park and Ride,APT 7kW Dual Outlet
+1288120,User 636,70206,1,9/24/2015,06:50,9/24/2015,17:58,13.02,Elland Road Park and Ride,APT 7kW Dual Outlet
+1288405,User 628,70206,2,9/24/2015,08:54,9/24/2015,16:41,7.54,Elland Road Park and Ride,APT 7kW Dual Outlet
+1288419,User 642,70207,1,9/24/2015,08:57,9/24/2015,17:05,2.43,Elland Road Park and Ride,APT 7kW Dual Outlet
+1288565,User 110,70205,1,9/24/2015,11:18,9/24/2015,19:14,16.1,Elland Road Park and Ride,APT 7kW Dual Outlet
+1297761,User 628,70206,2,9/25/2015,08:46,9/25/2015,15:58,7.26,Elland Road Park and Ride,APT 7kW Dual Outlet
+1306673,User 103,70204,1,9/26/2015,12:01,9/26/2015,17:41,0,Woodhouse Lane Car Park,APT 7kW Dual Outlet
+1307317,User 63,70201,1,9/26/2015,13:59,9/26/2015,15:15,0,Woodhouse Lane Car Park,APT 7kW Dual Outlet
+1312604,User 106,70200,1,9/28/2015,07:14,9/29/2015,01:55,3.82,Woodhouse Lane Car Park,APT 7kW Dual Outlet
+1312607,User 84,70207,1,9/28/2015,07:17,9/28/2015,15:38,14.09,Elland Road Park and Ride,APT 7kW Dual Outlet
+1312653,User 636,70206,1,9/28/2015,07:48,9/28/2015,17:26,18.54,Elland Road Park and Ride,APT 7kW Dual Outlet
+1312851,User 628,70206,2,9/28/2015,08:52,9/28/2015,17:12,2.5,Elland Road Park and Ride,APT 7kW Dual Outlet
+1314113,User 71,70207,1,9/28/2015,15:55,9/28/2015,16:50,5.99,Elland Road Park and Ride,APT 7kW Dual Outlet
+1316073,User 636,70206,1,9/29/2015,07:51,9/29/2015,17:00,14.63,Elland Road Park and Ride,APT 7kW Dual Outlet
+1316266,User 628,70206,2,9/29/2015,08:50,9/29/2015,16:55,6.8,Elland Road Park and Ride,APT 7kW Dual Outlet
+1316686,User 44,70203,2,9/29/2015,11:36,9/29/2015,15:38,0,Woodhouse Lane Car Park,APT 7kW Dual Outlet
+1319385,User 84,70207,1,9/30/2015,07:15,9/30/2015,15:51,11.24,Elland Road Park and Ride,APT 7kW Dual Outlet
+1319391,User 636,70206,1,9/30/2015,07:16,9/30/2015,17:41,13.28,Elland Road Park and Ride,APT 7kW Dual Outlet
+1319392,User 106,70200,2,9/30/2015,07:18,9/30/2015,07:22,0.08,Woodhouse Lane Car Park,APT 7kW Dual Outlet
+1319402,User 106,70200,2,9/30/2015,07:22,9/30/2015,18:04,6.74,Woodhouse Lane Car Park,APT 7kW Dual Outlet
+1319639,User 628,70206,2,9/30/2015,08:49,9/30/2015,10:22,5.16,Elland Road Park and Ride,APT 7kW Dual Outlet
+1319781,User 629,70208,1,9/30/2015,09:07,9/30/2015,10:22,4.12,Elland Road Park and Ride,APT 7kW Dual Outlet
+1320041,User 628,70206,2,9/30/2015,11:14,9/30/2015,11:14,0,Elland Road Park and Ride,APT 7kW Dual Outlet
+1320129,User 478,70204,1,9/30/2015,11:57,9/30/2015,14:52,0,Woodhouse Lane Car Park,APT 7kW Dual Outlet
+1322644,User 636,70206,1,10/01/2015,07:17,10/01/2015,16:57,13.13,Elland Road Park and Ride,APT 7kW Dual Outlet
+1322648,User 106,70201,1,10/01/2015,07:19,10/01/2015,14:54,0,Woodhouse Lane Car Park,APT 7kW Dual Outlet
+1324286,User 44,70200,1,10/01/2015,17:12,10/01/2015,19:10,5.29,Woodhouse Lane Car Park,APT 7kW Dual Outlet
+1326012,User 628,70206,2,10/02/2015,08:41,10/02/2015,17:05,11.85,Elland Road Park and Ride,APT 7kW Dual Outlet
+1329083,User 84,70203,2,10/03/2015,10:57,10/03/2015,13:27,0,Woodhouse Lane Car Park,APT 7kW Dual Outlet
+1329337,User 625,70202,1,10/03/2015,12:51,10/03/2015,16:13,5.23,Woodhouse Lane Car Park,APT 7kW Dual Outlet
+1332639,User 636,70206,1,10/05/2015,07:02,10/05/2015,17:04,12.24,Elland Road Park and Ride,APT 7kW Dual Outlet
+1332661,User 84,70207,1,10/05/2015,07:14,10/05/2015,15:51,14.35,Elland Road Park and Ride,APT 7kW Dual Outlet
+1332834,User 628,70206,2,10/05/2015,08:46,10/05/2015,16:58,3.02,Elland Road Park and Ride,APT 7kW Dual Outlet
+1332897,User 38,70208,1,10/05/2015,09:10,10/05/2015,16:25,18.57,Elland Road Park and Ride,APT 7kW Dual Outlet
+1335036,User 636,70206,1,10/06/2015,07:20,10/06/2015,17:26,11.28,Elland Road Park and Ride,APT 7kW Dual Outlet
+1335140,User 44,70202,2,10/06/2015,08:15,10/06/2015,10:32,6.56,Woodhouse Lane Car Park,APT 7kW Dual Outlet
+1335305,User 38,70207,1,10/06/2015,09:34,10/06/2015,16:46,15.99,Elland Road Park and Ride,APT 7kW Dual Outlet
+1336807,User 84,70206,2,10/07/2015,07:14,10/07/2015,16:03,13.59,Elland Road Park and Ride,APT 7kW Dual Outlet
+1336810,User 106,70203,1,10/07/2015,07:17,10/07/2015,17:39,0,Woodhouse Lane Car Park,APT 7kW Dual Outlet
+1336817,User 636,70206,1,10/07/2015,07:22,10/07/2015,17:25,11.45,Elland Road Park and Ride,APT 7kW Dual Outlet
+1337203,User 55,70207,1,10/07/2015,12:03,10/07/2015,16:20,5.66,Elland Road Park and Ride,APT 7kW Dual Outlet
+1338355,User 636,70206,1,10/08/2015,07:12,10/08/2015,17:38,12.46,Elland Road Park and Ride,APT 7kW Dual Outlet
+1338362,User 106,70203,1,10/08/2015,07:17,10/08/2015,18:13,0,Woodhouse Lane Car Park,APT 7kW Dual Outlet
+1338514,User 628,70206,2,10/08/2015,08:48,10/08/2015,17:12,7.75,Elland Road Park and Ride,APT 7kW Dual Outlet
+1339425,User 51,70202,2,10/08/2015,16:13,10/08/2015,18:22,6.86,Woodhouse Lane Car Park,APT 7kW Dual Outlet
+1339990,User 84,70207,1,10/09/2015,07:13,10/09/2015,15:49,14.47,Elland Road Park and Ride,APT 7kW Dual Outlet
+1341601,User 56,70206,1,10/10/2015,10:54,10/10/2015,10:56,0,Elland Road Park and Ride,APT 7kW Dual Outlet
+1341605,User 56,70206,2,10/10/2015,10:58,10/10/2015,10:58,0,Elland Road Park and Ride,APT 7kW Dual Outlet
+1341607,User 56,70206,1,10/10/2015,10:59,10/10/2015,11:01,0,Elland Road Park and Ride,APT 7kW Dual Outlet
+1341609,User 56,70207,1,10/10/2015,11:01,10/10/2015,11:04,0,Elland Road Park and Ride,APT 7kW Dual Outlet
+1341615,User 56,70207,1,10/10/2015,11:05,10/10/2015,11:30,3.1,Elland Road Park and Ride,APT 7kW Dual Outlet
+1343333,User 106,70200,2,10/12/2015,07:13,10/12/2015,15:38,6.04,Woodhouse Lane Car Park,APT 7kW Dual Outlet
+1343356,User 636,70206,1,10/12/2015,07:37,10/12/2015,17:04,13.98,Elland Road Park and Ride,APT 7kW Dual Outlet
+1344804,User 636,70206,1,10/13/2015,08:00,10/13/2015,16:49,12.72,Elland Road Park and Ride,APT 7kW Dual Outlet
+1344884,User 602,70207,1,10/13/2015,08:59,10/13/2015,16:11,11.26,Elland Road Park and Ride,APT 7kW Dual Outlet
+1346233,User 106,70202,1,10/14/2015,07:11,10/14/2015,20:11,6.17,Woodhouse Lane Car Park,APT 7kW Dual Outlet
+1346235,User 84,70207,1,10/14/2015,07:14,10/14/2015,16:03,12.18,Elland Road Park and Ride,APT 7kW Dual Outlet
+1346390,User 628,70207,2,10/14/2015,09:05,10/14/2015,16:15,8.77,Elland Road Park and Ride,APT 7kW Dual Outlet
+1346614,User 38,70206,1,10/14/2015,11:49,10/14/2015,13:38,6.76,Elland Road Park and Ride,APT 7kW Dual Outlet
+1347762,User 636,70206,1,10/15/2015,07:13,10/15/2015,17:36,13.03,Elland Road Park and Ride,APT 7kW Dual Outlet
+1347881,User 628,70207,1,10/15/2015,08:52,10/15/2015,18:21,6.58,Elland Road Park and Ride,APT 7kW Dual Outlet
+1347950,User 38,70208,1,10/15/2015,09:53,10/15/2015,16:46,18.8,Elland Road Park and Ride,APT 7kW Dual Outlet
+1350479,User 84,70207,1,10/16/2015,07:15,10/16/2015,15:51,13.73,Elland Road Park and Ride,APT 7kW Dual Outlet
+1350739,User 38,70206,1,10/16/2015,10:01,10/16/2015,15:32,19.91,Elland Road Park and Ride,APT 7kW Dual Outlet
+1351812,User 70,70207,1,10/16/2015,18:00,10/16/2015,19:32,5.97,Elland Road Park and Ride,APT 7kW Dual Outlet
+1355595,User 84,70207,1,10/19/2015,07:14,10/19/2015,15:51,13.18,Elland Road Park and Ride,APT 7kW Dual Outlet
+1355632,User 636,70206,1,10/19/2015,07:44,10/19/2015,17:23,12.9,Elland Road Park and Ride,APT 7kW Dual Outlet
+1357847,User 636,70206,1,10/20/2015,06:54,10/20/2015,17:32,13.36,Elland Road Park and Ride,APT 7kW Dual Outlet
+1358018,User 628,70207,1,10/20/2015,08:45,10/20/2015,16:13,-47.85,Elland Road Park and Ride,APT 7kW Dual Outlet
+1360364,User 636,70206,1,10/21/2015,07:14,10/21/2015,17:05,12.37,Elland Road Park and Ride,APT 7kW Dual Outlet
+1360366,User 84,70207,1,10/21/2015,07:15,10/21/2015,16:09,0,Elland Road Park and Ride,APT 7kW Dual Outlet
+1362109,User 636,70206,1,10/22/2015,07:00,10/22/2015,16:14,0.67,Elland Road Park and Ride,APT 7kW Dual Outlet
+1362281,User 628,70207,1,10/22/2015,08:53,10/22/2015,17:00,11.39,Elland Road Park and Ride,APT 7kW Dual Outlet
+1364130,User 84,70207,1,10/23/2015,07:14,10/23/2015,15:54,11.71,Elland Road Park and Ride,APT 7kW Dual Outlet
+1364289,User 628,70207,2,10/23/2015,08:55,10/23/2015,17:01,8.38,Elland Road Park and Ride,APT 7kW Dual Outlet
+1366258,User 84,70207,1,10/24/2015,12:14,10/24/2015,15:31,9.82,Elland Road Park and Ride,APT 7kW Dual Outlet
+1368056,User 107,70202,1,10/25/2015,13:33,10/25/2015,15:29,7.28,Woodhouse Lane Car Park,APT 7kW Dual Outlet
+1368709,User 636,70205,1,10/26/2015,06:51,10/26/2015,12:25,13.24,Elland Road Park and Ride,APT 7kW Dual Outlet
+1369091,User 38,70206,1,10/26/2015,10:25,10/26/2015,13:52,12.88,Elland Road Park and Ride,APT 7kW Dual Outlet
+1370560,User 636,70205,1,10/27/2015,07:03,10/27/2015,17:07,17.51,Elland Road Park and Ride,APT 7kW Dual Outlet
+1370574,User 84,70207,1,10/27/2015,07:15,10/27/2015,15:59,11.93,Elland Road Park and Ride,APT 7kW Dual Outlet
+1370767,User 628,70207,2,10/27/2015,08:58,10/27/2015,08:58,0,Elland Road Park and Ride,APT 7kW Dual Outlet
+1370776,User 628,70207,2,10/27/2015,09:06,10/27/2015,16:24,11.5,Elland Road Park and Ride,APT 7kW Dual Outlet
+1372342,User 106,70201,1,10/28/2015,07:09,10/28/2015,15:03,0,Woodhouse Lane Car Park,APT 7kW Dual Outlet
+1372376,User 636,70205,1,10/28/2015,07:46,10/28/2015,07:46,0,Elland Road Park and Ride,APT 7kW Dual Outlet
+1372378,User 636,70205,1,10/28/2015,07:46,10/28/2015,07:47,0,Elland Road Park and Ride,APT 7kW Dual Outlet
+1372380,User 636,70205,2,10/28/2015,07:48,10/28/2015,17:01,12.72,Elland Road Park and Ride,APT 7kW Dual Outlet
+1372591,User 38,70206,1,10/28/2015,09:45,10/28/2015,16:13,19.47,Elland Road Park and Ride,APT 7kW Dual Outlet
+1374159,User 636,70205,1,10/29/2015,07:04,10/29/2015,16:46,12.6,Elland Road Park and Ride,APT 7kW Dual Outlet
+1374170,User 84,70207,1,10/29/2015,07:15,10/29/2015,15:52,-11.77,Elland Road Park and Ride,APT 7kW Dual Outlet
+1374307,User 628,70207,2,10/29/2015,08:41,10/29/2015,16:28,11.83,Elland Road Park and Ride,APT 7kW Dual Outlet
+1374473,User 38,70206,1,10/29/2015,09:56,10/29/2015,11:31,5.93,Elland Road Park and Ride,APT 7kW Dual Outlet
+1376236,User 602,70207,1,10/30/2015,08:48,10/30/2015,16:12,8.23,Elland Road Park and Ride,APT 7kW Dual Outlet
+1376290,User 109,70206,2,10/30/2015,09:18,10/30/2015,09:54,2.27,Elland Road Park and Ride,APT 7kW Dual Outlet
+1376864,User 38,70203,2,10/30/2015,13:22,10/30/2015,15:52,0,Woodhouse Lane Car Park,APT 7kW Dual Outlet
+1376895,User 44,70204,1,10/30/2015,13:44,10/30/2015,15:01,0,Woodhouse Lane Car Park,APT 7kW Dual Outlet
+1377466,User 625,70204,1,10/30/2015,19:02,10/30/2015,23:41,0,Woodhouse Lane Car Park,APT 7kW Dual Outlet
+1380543,User 636,70205,1,11/02/2015,07:20,11/02/2015,17:26,13.91,Elland Road Park and Ride,APT 7kW Dual Outlet
+1380586,User 106,70202,1,11/02/2015,07:16,11/02/2015,16:59,4.2,Woodhouse Lane Car Park,APT 7kW Dual Outlet
+1380882,User 628,70207,1,11/02/2015,11:07,11/02/2015,16:25,6.2,Elland Road Park and Ride,APT 7kW Dual Outlet
+1382378,User 636,70205,1,11/03/2015,07:25,11/03/2015,16:23,12.25,Elland Road Park and Ride,APT 7kW Dual Outlet
+1382456,User 98,70206,1,11/03/2015,08:28,11/03/2015,13:26,11.91,Elland Road Park and Ride,APT 7kW Dual Outlet
+1382535,User 628,70207,1,11/03/2015,08:49,11/03/2015,16:23,7.41,Elland Road Park and Ride,APT 7kW Dual Outlet
+1384276,User 106,70202,1,11/04/2015,07:13,11/04/2015,17:53,5.13,Woodhouse Lane Car Park,APT 7kW Dual Outlet
+1384438,User 628,70207,1,11/04/2015,08:47,11/04/2015,16:55,7.33,Elland Road Park and Ride,APT 7kW Dual Outlet
+1384488,User 110,70205,2,11/04/2015,09:03,11/04/2015,18:30,36.2,Elland Road Park and Ride,APT 7kW Dual Outlet
+1384596,User 38,70205,1,11/04/2015,10:26,11/04/2015,15:50,19.43,Elland Road Park and Ride,APT 7kW Dual Outlet
+1386018,User 84,70207,1,11/05/2015,07:17,11/05/2015,15:53,11.59,Elland Road Park and Ride,APT 7kW Dual Outlet
+1386056,User 636,70206,1,11/05/2015,07:42,11/05/2015,17:18,11.8,Elland Road Park and Ride,APT 7kW Dual Outlet
+1386077,User 106,70203,1,11/05/2015,08:02,11/05/2015,18:53,0,Woodhouse Lane Car Park,APT 7kW Dual Outlet
+1386209,User 110,70205,2,11/05/2015,08:57,11/05/2015,18:07,35.37,Elland Road Park and Ride,APT 7kW Dual Outlet
+1387974,User 84,70207,1,11/06/2015,07:15,11/06/2015,15:58,7.23,Elland Road Park and Ride,APT 7kW Dual Outlet
+1388042,User 106,70202,1,11/06/2015,08:05,11/06/2015,17:00,5.41,Woodhouse Lane Car Park,APT 7kW Dual Outlet
+1389093,User 15,70204,1,11/06/2015,17:36,11/06/2015,20:58,0,Woodhouse Lane Car Park,APT 7kW Dual Outlet
+1392023,User 84,70207,1,11/09/2015,07:16,11/09/2015,09:12,7.2,Elland Road Park and Ride,APT 7kW Dual Outlet
+1392046,User 636,70205,1,11/09/2015,07:39,11/09/2015,16:52,12.3,Elland Road Park and Ride,APT 7kW Dual Outlet
+1392191,User 602,70207,2,11/09/2015,08:51,11/09/2015,09:12,1.12,Elland Road Park and Ride,APT 7kW Dual Outlet
+1393773,User 106,70201,1,11/10/2015,07:11,11/10/2015,16:10,0,Woodhouse Lane Car Park,APT 7kW Dual Outlet
+1393803,User 636,70205,1,11/10/2015,07:37,11/10/2015,17:00,11.41,Elland Road Park and Ride,APT 7kW Dual Outlet
+1393949,User 628,70207,1,11/10/2015,08:50,11/10/2015,16:35,9.95,Elland Road Park and Ride,APT 7kW Dual Outlet
+1395733,User 636,70205,1,11/11/2015,07:28,11/11/2015,17:36,11.87,Elland Road Park and Ride,APT 7kW Dual Outlet
+1397680,User 636,70205,1,11/12/2015,08:16,11/12/2015,15:29,12.9,Elland Road Park and Ride,APT 7kW Dual Outlet
+1398690,User 44,70202,1,11/12/2015,16:43,11/12/2015,19:02,5.95,Woodhouse Lane Car Park,APT 7kW Dual Outlet
+1399386,User 106,70200,2,11/13/2015,06:58,11/13/2015,17:07,6.56,Woodhouse Lane Car Park,APT 7kW Dual Outlet
+1399617,User 110,70205,2,11/13/2015,08:54,11/13/2015,14:52,23.04,Elland Road Park and Ride,APT 7kW Dual Outlet
+1401890,User 10,70203,2,11/14/2015,15:23,11/14/2015,17:09,0,Woodhouse Lane Car Park,APT 7kW Dual Outlet
+1402754,User 63,70204,1,11/15/2015,11:25,11/15/2015,12:19,0,Woodhouse Lane Car Park,APT 7kW Dual Outlet
+1403688,User 84,70207,1,11/16/2015,07:14,11/16/2015,15:50,16.52,Elland Road Park and Ride,APT 7kW Dual Outlet
+1404059,User 636,70205,1,11/16/2015,10:30,11/16/2015,18:41,13.35,Elland Road Park and Ride,APT 7kW Dual Outlet
+1405563,User 76,70204,1,11/17/2015,06:25,11/17/2015,08:16,0,Woodhouse Lane Car Park,APT 7kW Dual Outlet
+1405575,User 636,70205,1,11/17/2015,06:58,11/17/2015,14:30,12.61,Elland Road Park and Ride,APT 7kW Dual Outlet
+1405935,User 102,70200,2,11/17/2015,09:52,11/17/2015,17:34,11.34,Woodhouse Lane Car Park,APT 7kW Dual Outlet
+1406857,User 76,70201,1,11/17/2015,16:32,11/18/2015,08:00,0,Woodhouse Lane Car Park,APT 7kW Dual Outlet
+1409388,User 76,70201,2,11/18/2015,20:57,11/19/2015,08:23,0,Woodhouse Lane Car Park,APT 7kW Dual Outlet
+1409593,User 636,70205,1,11/19/2015,06:54,11/19/2015,12:12,16.11,Elland Road Park and Ride,APT 7kW Dual Outlet
+1409956,User 88,70201,1,11/19/2015,10:24,11/19/2015,14:30,0,Woodhouse Lane Car Park,APT 7kW Dual Outlet
+1410745,User 76,70204,2,11/19/2015,16:39,11/19/2015,16:41,0,Woodhouse Lane Car Park,APT 7kW Dual Outlet
+1412384,User 76,70201,1,11/20/2015,13:46,11/23/2015,11:19,0,Woodhouse Lane Car Park,APT 7kW Dual Outlet
+1415586,User 636,70205,1,11/23/2015,07:18,11/23/2015,17:01,14.88,Elland Road Park and Ride,APT 7kW Dual Outlet
+1417205,User 636,70205,1,11/24/2015,07:29,11/24/2015,17:33,14.42,Elland Road Park and Ride,APT 7kW Dual Outlet
+1417343,User 110,70205,2,11/24/2015,08:45,11/24/2015,17:39,12.54,Elland Road Park and Ride,APT 7kW Dual Outlet
+1418870,User 636,70205,1,11/25/2015,07:00,11/25/2015,16:19,14.57,Elland Road Park and Ride,APT 7kW Dual Outlet
+1419237,User 38,70206,1,11/25/2015,11:03,11/25/2015,17:29,18.25,Elland Road Park and Ride,APT 7kW Dual Outlet
+1420755,User 636,70205,1,11/26/2015,07:29,11/26/2015,16:34,13.94,Elland Road Park and Ride,APT 7kW Dual Outlet
+1421229,User 44,70204,2,11/26/2015,12:25,11/26/2015,15:15,0,Woodhouse Lane Car Park,APT 7kW Dual Outlet
+1426274,User 636,70205,1,11/30/2015,07:27,11/30/2015,15:16,14.36,Elland Road Park and Ride,APT 7kW Dual Outlet
+1426522,User 38,70205,2,11/30/2015,10:09,11/30/2015,13:59,14.29,Elland Road Park and Ride,APT 7kW Dual Outlet
+1428004,User 44,70204,1,12/01/2015,07:40,12/01/2015,11:39,0,Woodhouse Lane Car Park,APT 7kW Dual Outlet
+1428010,User 636,70205,1,12/01/2015,07:31,12/01/2015,13:26,21.26,Elland Road Park and Ride,APT 7kW Dual Outlet
+1428156,User 110,70205,2,12/01/2015,09:01,12/01/2015,17:29,32.55,Elland Road Park and Ride,APT 7kW Dual Outlet
+1428901,User 116,70206,2,12/01/2015,14:40,12/01/2015,14:54,0.87,Elland Road Park and Ride,APT 7kW Dual Outlet
+1429686,User 121,70206,2,12/02/2015,06:51,12/02/2015,15:41,9.32,Elland Road Park and Ride,APT 7kW Dual Outlet
+1429803,User 636,70205,1,12/02/2015,07:37,12/02/2015,13:02,16.82,Elland Road Park and Ride,APT 7kW Dual Outlet
+1430130,User 38,70207,1,12/02/2015,11:42,12/02/2015,13:29,6.59,Elland Road Park and Ride,APT 7kW Dual Outlet
+1431599,User 636,70205,1,12/03/2015,08:14,12/03/2015,17:03,13.05,Elland Road Park and Ride,APT 7kW Dual Outlet
+1437575,User 645,70208,1,12/07/2015,07:55,12/07/2015,16:13,5.31,Elland Road Park and Ride,APT 7kW Dual Outlet
+1437781,User 121,70207,1,12/07/2015,09:53,12/07/2015,15:11,0,Elland Road Park and Ride,APT 7kW Dual Outlet
+1437783,User 99,70206,2,12/07/2015,09:54,12/07/2015,14:24,9.34,Elland Road Park and Ride,APT 7kW Dual Outlet
+1439158,User 636,70205,1,12/08/2015,06:50,12/08/2015,14:42,14.12,Elland Road Park and Ride,APT 7kW Dual Outlet
+1439522,User 121,70207,1,12/08/2015,10:01,12/08/2015,16:23,9.92,Elland Road Park and Ride,APT 7kW Dual Outlet
+1441050,User 636,70205,1,12/09/2015,07:29,12/09/2015,15:00,21.09,Elland Road Park and Ride,APT 7kW Dual Outlet
+1441064,User 645,70208,1,12/09/2015,07:40,12/09/2015,15:47,5.89,Elland Road Park and Ride,APT 7kW Dual Outlet
+1441068,User 44,70204,1,12/09/2015,07:43,12/09/2015,17:41,0,Woodhouse Lane Car Park,APT 7kW Dual Outlet
+1441213,User 628,70206,2,12/09/2015,08:58,12/09/2015,17:22,11.8,Elland Road Park and Ride,APT 7kW Dual Outlet
+1442883,User 645,70206,1,12/10/2015,07:50,12/10/2015,17:52,5.45,Elland Road Park and Ride,APT 7kW Dual Outlet
+1443186,User 636,70205,1,12/10/2015,10:35,12/10/2015,14:33,14.49,Elland Road Park and Ride,APT 7kW Dual Outlet
+1444721,User 121,70207,1,12/11/2015,08:29,12/11/2015,16:19,9.82,Elland Road Park and Ride,APT 7kW Dual Outlet
+1446588,User 63,70204,2,12/12/2015,08:53,12/12/2015,10:03,0,Woodhouse Lane Car Park,APT 7kW Dual Outlet
+1448844,User 636,70205,1,12/14/2015,07:33,12/14/2015,16:29,14.51,Elland Road Park and Ride,APT 7kW Dual Outlet
+1450721,User 111,70205,2,12/15/2015,08:28,12/15/2015,17:56,36.48,Elland Road Park and Ride,APT 7kW Dual Outlet
+1452582,User 636,70206,1,12/16/2015,08:03,12/16/2015,17:19,16.47,Elland Road Park and Ride,APT 7kW Dual Outlet
+1454307,User 121,70207,1,12/17/2015,06:57,12/17/2015,15:52,9.61,Elland Road Park and Ride,APT 7kW Dual Outlet
+1454431,User 645,70206,1,12/17/2015,08:07,12/17/2015,17:51,5.7,Elland Road Park and Ride,APT 7kW Dual Outlet
+1454551,User 636,70206,2,12/17/2015,08:54,12/17/2015,17:03,17.09,Elland Road Park and Ride,APT 7kW Dual Outlet
+1458273,User 628,70206,2,12/19/2015,11:59,12/19/2015,17:04,11.96,Elland Road Park and Ride,APT 7kW Dual Outlet
+1458774,User 64,70206,1,12/19/2015,17:30,12/19/2015,19:42,11.38,Elland Road Park and Ride,APT 7kW Dual Outlet
+1459421,User 84,70204,2,12/20/2015,11:12,12/20/2015,14:08,0,Woodhouse Lane Car Park,APT 7kW Dual Outlet
+1462375,User 55,70206,2,12/22/2015,10:10,12/22/2015,11:10,3.31,Elland Road Park and Ride,APT 7kW Dual Outlet
+1470742,User 631,70206,2,12/29/2015,11:56,12/29/2015,16:56,20.76,Elland Road Park and Ride,APT 7kW Dual Outlet
+1472154,User 120,70201,2,12/30/2015,13:19,12/30/2015,13:19,0,Woodhouse Lane Car Park,APT 7kW Dual Outlet
+1472155,User 120,70201,1,12/30/2015,13:19,12/30/2015,15:48,0,Woodhouse Lane Car Park,APT 7kW Dual Outlet
