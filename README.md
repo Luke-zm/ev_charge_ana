@@ -18,7 +18,8 @@ The project folder is organised in the following structure:
 │   ├── data_preprocessing_pt2_n_user_clustering.ipynb                                                                  
 │   ├── electricty_consumption_anna_n_pred.ipynb                                                                        
 │   ├── stay_duration_ana_and_pred.ipynb                                                                                
-│   └── user_growth_ana.ipynb                                                                                                                                                                                       ├── pre_ana_data                                                                                                        
+│   └── user_growth_ana.ipynb                                                                                                                                                                                       
+├── pre_ana_data                                                                                                        
 │   ├── updated_combined_ev_charging_data.csv                                                                           
 │   ├── Updated_DM_2014 EVCP use Q2.csv                                                                                 
 │   ├── Updated_DM_2014 EVCP use Q3 and Q4.csv                                                                          

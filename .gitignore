@@ -166,3 +166,7 @@ cython_debug/
 # Ignore tempfiles
 # ignore ALL files in ANY directory named temp
 temp/
+
+# Ignore trash
+trash/
+
