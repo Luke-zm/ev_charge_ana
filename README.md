@@ -36,5 +36,6 @@ The project folder is organised in the following structure:
 │   ├── Updated_DM_2020 EVCP use Q1 and Q2.csv                                                                          
 │   ├── Updated_DM_2020 EVCP use Q3.csv                                                                                 
 │   └── Updated_DM_2021 EVCP use Q1.csv                                                                                 
+├── ppt_slides.ppt
 └── README.md
 ~~~
